@@ -1,5 +1,5 @@
 # relay-todo
-Relay TodoMVC
+Relay Todo
 
 ## Usage
 
